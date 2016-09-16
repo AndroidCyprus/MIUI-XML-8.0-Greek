@@ -103,7 +103,7 @@
      <string name="permlab_sendSmsNoConfirmation">Αποστολή μηνυμάτων SMS στο παρασκήνιο</string>
      <string name="phone">Τηλέφωνο</string>
      <string name="pm">ΜΜ</string>
-     <string name="privacy_policy">Ιδιωτικό απόρρητο</string>
+     <string name="privacy_policy">Πολιτική Απορρήτου</string>
      <string name="saturday">Σάββατο</string>
      <string name="saturday_short">Σαβ</string>
      <string name="saturday_shortest">Σ</string>
@@ -184,7 +184,7 @@
      <string name="tuesday">Τρίτη</string>
      <string name="tuesday_short">Τρι</string>
      <string name="tuesday_shortest">Τ</string>
-     <string name="user_agreement">Συμφωνία χρήσης</string>
+     <string name="user_agreement">Όροι Χρήσης</string>
      <string name="user_manual">Οδηγός χρήσης</string>
      <string name="web_sso_login_fail">Θα πρέπει να συνδεθείτε ξανά</string>
      <string name="web_sso_login_message">Σύνδεση στο…</string>
